@@ -17,7 +17,7 @@ int main() {
     cout<<"Enter student 5 roll number: ";
     cin>>roll5;
 
-    cout<<"The roll number student 1 is: "<<roll1<<"\n";
+    cout<<"\nThe roll number student 1 is: "<<roll1<<"\n";
     cout<<"The roll number student 2 is: "<<roll2<<"\n";
     cout<<"The roll number student 3 is: "<<roll3<<"\n";
     cout<<"The roll number student 4 is: "<<roll4<<"\n";
