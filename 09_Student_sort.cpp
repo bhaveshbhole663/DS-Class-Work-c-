@@ -1,3 +1,7 @@
+//Write a c++ program to store the marks of 5 students in an array.
+//Arrange the marks in descending order to display the students form highest marks to lowest marks.
+
+
 #include<iostream>
 using namespace std;
 
